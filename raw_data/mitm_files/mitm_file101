@@ -1,0 +1,9 @@
+2020-04-24 10:41:51.190 - [Info] MITM Version: 1.4
+2020-04-24 10:41:51.208 - [Info] Auto Access Enabled: false
+2020-04-24 10:41:51.208 - [Debug] [Init] Auto Access Barrier: false
+2020-04-24 10:41:51.488 - [Info] Exiting...
+2020-04-24 10:41:51.492 - [Debug] Cleaning up...
+2020-04-24 10:41:51.493 - [Error] Exception occurred: 
+listen EADDRINUSE: address already in use 0.0.0.0:1001
+2020-04-24 10:41:51.493 - [Debug] Cleaning up LXC Streams: 0
+2020-04-24 10:41:52.646 - [Error] DB Error:Error: ER_BAD_NULL_ERROR: Column 'mitm_start_id' cannot be null
